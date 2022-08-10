@@ -1,0 +1,73 @@
+
+.container0 {
+    display: flex;
+    height: 220px;            
+    flex-direction: row;
+    align-items: center;
+    
+    
+}
+
+
+.container0 button {
+
+    height: 70px;
+    margin-left: 50px;
+    width: 110px;
+    margin-top: 300px;
+}
+
+.container0 .rck {
+  
+    margin-left: 500px; 
+}
+
+.container0 .clear {
+
+ margin-top: -150px;
+  
+    margin-left: 400px; 
+}
+
+
+.container0 .score {
+    margin-top: 0px;
+    margin-left: -900px;
+    font-size: xx-large; 
+    font-weight: 800;
+    background-color:black ;
+    color: cornsilk
+}
+.container1 {
+    display: flex;
+    height: 220px;            
+    flex-direction: row;
+   
+    
+    
+}
+
+.container1 .results {
+    margin-top: 150px;
+  
+    margin-left: 510px; 
+    font-size: xx-large;
+}
+
+.fresults{
+    
+    font-weight: 900;
+    font-size: xx-large;
+    margin-left: 450px;
+}
+body {
+
+    background-image: url('./images/anime-grass.gif');
+}
+.dintro {
+
+    font-weight: 900;
+    font-size: xx-large;
+    margin-left: 400px;
+    margin-top: -320px;
+}
